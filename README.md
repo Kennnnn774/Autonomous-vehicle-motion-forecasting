@@ -1,5 +1,7 @@
 # Deep Learning Project
 
+Team: Ken, Dennis, Jeffery, Dexter
+
 #### Background
 
 The background of the task focuses on a spatial-temporal task, where the deep learning model is required to predict future trajectories of moving objects like cars on roads based on their previous positions and velocity. By improving the accuracy of the prediction, it could benefit the forecasting technology of fully autonomous driving vehicles, which would increase the safety of driving without supervision. Therefore, solving this problem can boost the progression of autonomous driving technology. Moreover, in the domain of traffic forecasting, predicting the trajectories of vehicles could give a better prediction and understanding of traffic conditions in major cities, thus benefiting efficiency of highway and public transportation planning.
